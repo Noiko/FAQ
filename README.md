@@ -2,6 +2,8 @@
 
 ## Est-ce que mes données sont protégées ?
 
+Oui.
+
 ## Est ce que les documents que je crée/importe dans Noiko sont protégés ?
 
 ## Que faire si j'ai perdu mon mot de passe ?
