@@ -1,5 +1,3 @@
-Bienvenue sur la foire aux questions de Noïko
-
 # Sécurité
 
 ## Est-ce que mes données sont protégées ?
