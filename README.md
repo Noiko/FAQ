@@ -2,7 +2,7 @@
 
 ## Est-ce que mes données sont protégées ?
 
-Oui.
+Oui car la sécurité est un des piliers de Noïko. Toutes les données qui transitent sur le réseau et qui sont stockées sur nos serveurs sont encryptées avec une clé différente pour chaque médecin.
 
 ## Est ce que les documents que je crée/importe dans Noiko sont protégés ?
 
@@ -13,7 +13,7 @@ Les documents textes créés dans Noïko, comme les ordonnances, les lettres et 
 
 
 
-# Installation et configuration
+# Installation
 
 ## Quel système faut-il pour faire fonctionner Noïko ?
 
@@ -39,7 +39,7 @@ Les documents textes créés dans Noïko, comme les ordonnances, les lettres et 
 
 
 
-# Noïko et les applications externes
+# Autres
 
 ## Puis-je exporter/sauvegarder facilement mes données ?
 
