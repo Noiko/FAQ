@@ -6,6 +6,8 @@ Oui.
 
 ## Est ce que les documents que je crée/importe dans Noiko sont protégés ?
 
+Les documents textes créés dans Noïko, comme les ordonnances, les lettres et autres documents, sont cryptés dans notre base de données.
+
 ## Que faire si j'ai perdu mon mot de passe ?
 
 
