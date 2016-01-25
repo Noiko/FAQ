@@ -2,7 +2,7 @@
 
 ## Est-ce que mes données sont protégées ?
 
-Oui car la sécurité est un des piliers de Noïko. Toutes les données qui transitent sur le réseau et qui sont stockées sur nos serveurs sont encryptées avec une clé différente pour chaque médecin.
+Oui, car la sécurité est un des piliers de Noïko. Toutes les données qui transitent sur le réseau et qui sont stockées sur nos serveurs sont encryptées avec une clé différente pour chaque médecin.
 
 ## Est ce que les documents que je crée/importe dans Noiko sont protégés ?
 
